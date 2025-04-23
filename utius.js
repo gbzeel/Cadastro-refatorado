@@ -1,4 +1,4 @@
-import { urlCrud } from "../script.js";
+export const urlCrud = 'https://crudcrud.com/api/7d073a43c64c43318bd798c885b43d5e';
 
 export const elemento = (id) => document.getElementById(id);
 
